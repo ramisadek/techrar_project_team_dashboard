@@ -1,0 +1,35 @@
+[
+  {
+    "path": "https://techrar.eg/api/colleges",
+    "method": "GET",
+    "statusCode": 200,
+    "data": {
+      "data": [
+        {
+          "name" : "Rami",
+          "role": "Developer",
+          "avatarUrl": "https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/man-user-circle-icon.png",
+          "isOnline": true
+        },
+        {
+          "name" : "Ahmed",
+          "role": "Product Maneger",
+          "avatarUrl": "https://i.pinimg.com/736x/fd/39/64/fd3964a54aac3033dc9a9d5dce9e7832.jpg",
+          "isOnline": false
+        },
+        {
+          "name" : "Ola",
+          "role": "Ui/Ux",
+          "avatarUrl": "https://img.freepik.com/premium-vector/portrait-beautiful-women-round-frame-avatar-female-character-isolated-white-background_559729-220.jpg",
+          "isOnline": false
+        },
+        {
+          "name" : "Reem",
+          "role": "Tester",
+          "avatarUrl": "https://cdn4.iconfinder.com/data/icons/avatars-21/512/avatar-circle-human-female-5-512.png",
+          "isOnline": true
+        }
+      ]
+    }
+  }
+]
