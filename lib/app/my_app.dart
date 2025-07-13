@@ -2,10 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:techrar_project_team_dashboard/I10n/localization_controller.dart';
 import 'package:techrar_project_team_dashboard/core/utils/theme/theme_controller.dart';
-import 'package:techrar_project_team_dashboard/features/home_navigation/view/home_navigation_screen.dart';
 import 'package:techrar_project_team_dashboard/features/splash_screen.dart';
 
-import 'main_configs.dart';
 
 class MyApp extends ConsumerWidget {
   const MyApp({super.key});

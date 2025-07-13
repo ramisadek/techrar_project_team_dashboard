@@ -7,8 +7,6 @@ import 'package:techrar_project_team_dashboard/core/core/network/endpoints.dart'
 import 'package:techrar_project_team_dashboard/core/core/network/models/response_model.dart';
 import 'package:techrar_project_team_dashboard/core/core/network/providers/dio_core/dio_core_provider.dart';
 import 'package:techrar_project_team_dashboard/core/models/network_models/dio_response.dart';
-import 'package:techrar_project_team_dashboard/core/remote/recent_tasks/models/recent_tasks_network_model.dart';
-import 'package:techrar_project_team_dashboard/core/remote/recent_tasks/recent_tasks_remote_data_source.dart';
 import 'package:techrar_project_team_dashboard/core/remote/user_tasks/user_tasks_remote_data_source.dart';
 
 import 'models/user_tasks_network_model.dart';

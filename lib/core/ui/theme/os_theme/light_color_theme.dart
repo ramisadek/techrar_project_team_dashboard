@@ -25,13 +25,10 @@ class LightColorTheme {
     errorContainer: Color(0xFFFFDAD6),
     onErrorContainer: Color(0xFF410002),
 
-    background: Color(0xFFFDFDFD),
-    onBackground: Color(0xFF1A1C1E),
-
     surface: Color(0xFFFDFDFD),
     onSurface: Color(0xFF1A1C1E),
 
-    surfaceVariant: Color(0xFFE0E3E9),
+    surfaceContainerHighest: Color(0xFFE0E3E9),
     onSurfaceVariant: Color(0xFF44474E),
 
     outline: Color(0xFF74777F),

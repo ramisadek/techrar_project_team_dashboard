@@ -6,8 +6,10 @@ This Flutter application includes a native Android integration to detect spoofin
 
 ## 🚀 1. Getting Started
 
-### ✅ App-Download-Link
+### ✅ App-Download-Link and show videos
 ![Android_APK](https://drive.google.com/file/d/1-F8npzsqJP506JLCGPiLpwLd4eJrIhXv/view)
+!🎥 [Ui_show](assets/docs/videos/ui_show.mp4)
+!🎥 [VPN Check_video](assets/docs/videos/vpn_detection.mp4)
 
 ### ✅ App-Info
 - Flutter SDK 3.32.4, Channel stable
@@ -49,16 +51,12 @@ flutter run
 Below are some visual examples from the app.
 
 ### ✅ Dashboard
-!🎥 [Ui_show](assets/docs/videos/ui_show.mp4)
-
 
 ![Dashboard_Light](assets/docs/images/dashboard_light_theme.jpg)
 ![Dashboard_Dark](assets/docs/images/dashboard_light_theme.jpg)
 
 
 ### ✅ VPN Detection Result
-!🎥 [VPN Check_video](assets/docs/videos/vpn_detection.mp4)
-
 
 ![VPN Check_photo](assets/docs/images/block_screen.jpg)
 

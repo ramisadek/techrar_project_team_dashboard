@@ -1,5 +1,4 @@
 import 'package:techrar_project_team_dashboard/core/models/tasks/tasks_model.dart';
-import 'package:techrar_project_team_dashboard/core/remote/recent_tasks/models/recent_tasks_network_model.dart';
 import 'package:techrar_project_team_dashboard/core/remote/user_tasks/models/user_tasks_network_model.dart';
 
 class UserTasksNetworkListMapper {
